@@ -707,6 +707,7 @@ a:hover {
   -o-transition: .3s all ease;
   transition: .3s all ease;
   overflow: hidden;
+  height: 400px;
   z-index: 1;
 }
 
